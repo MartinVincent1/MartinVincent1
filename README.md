@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MartinVincent1
-- 👀 I’m interested in learning more about data science and getting an internship
-- 🌱 I’m currently learning SAS, SQL, regression techniques, and more
-- 📫 How to reach me - martin.vincent@utdallas.edu
+Hi, I’m @MartinVincent1. I am using Github mainly to highlight the projects that I've been working on
+You can reach out to me for business related inquiries at martin.vincent@utdallas.edu
+
 
 <!---
 MartinVincent1/MartinVincent1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
