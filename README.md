@@ -1,4 +1,4 @@
-Hi, I’m @MartinVincent1. I am using Github mainly to highlight the projects that I've been working on
+Hi, I’m @MartinVincent1. I am using Github mainly to highlight the projects that I've been working on.
 You can reach out to me for business related inquiries at martin.vincent@utdallas.edu
 
 
